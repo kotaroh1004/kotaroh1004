@@ -1,0 +1,318 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 6060,
+      "max": [
+        12.771515846252441,
+        13.023673057556152,
+        17.903076171875
+      ],
+      "min": [
+        -11.7294340133667,
+        -13.151421546936035,
+        -9.754043579101563
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 72720,
+      "componentType": 5126,
+      "count": 6060,
+      "max": [
+        0.9999959468841553,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999959468841553,
+        -1.0,
+        -0.9999998807907104
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 6060,
+      "max": [
+        1.0,
+        1.0,
+        0.9999979138374329,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999967217445374,
+        -0.9999993443489075,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 6060,
+      "max": [
+        0.9948303699493408,
+        0.9905409812927246
+      ],
+      "min": [
+        0.00516963005065918,
+        0.00516963005065918
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 48480,
+      "componentType": 5126,
+      "count": 6060,
+      "max": [
+        0.9948303699493408,
+        0.9905409812927246
+      ],
+      "min": [
+        0.00516963005065918,
+        0.00516963005065918
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 96960,
+      "componentType": 5126,
+      "count": 6060,
+      "max": [
+        0.9948303699493408,
+        0.9905409812927246
+      ],
+      "min": [
+        0.00516963005065918,
+        0.00516963005065918
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 25272,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "tnnv (https://sketchfab.com/tnnv)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/warhammer-40k-kasrkin-helmet-9ae27ea1013e4ffc8b8b94974be082f6",
+      "title": "Warhammer 40k - Kasrkin Helmet"
+    },
+    "generator": "Sketchfab-11.27.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 101088,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 145440,
+      "byteOffset": 101088,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 145440,
+      "byteOffset": 246528,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 96960,
+      "byteOffset": 391968,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 488928,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Final_baseColor.png"
+    },
+    {
+      "uri": "textures/Final_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Final_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Final",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Armor.003_Final_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.010325858369469643,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.2928011421607148e-18,
+        -0.010325858369469643,
+        0.0,
+        0.0,
+        0.010325858369469643,
+        2.2928011421607148e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "6f3aac76a2b6492fa5cd556dbc4a1f55.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.9999990463256836,
+        1.0082320832348376e-16,
+        -2.421013896196991e-17,
+        0.0,
+        2.4210124635255202e-17,
+        -0.4540672817422528,
+        -0.8909663272556816,
+        0.0,
+        -1.0082321176368023e-16,
+        0.8909663272556816,
+        -0.4540672817422528,
+        0.0,
+        0.0,
+        5.251021862030029,
+        0.0,
+        1.0
+      ],
+      "name": "Armor.003"
+    },
+    {
+      "mesh": 0,
+      "name": "Armor.003_Final_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

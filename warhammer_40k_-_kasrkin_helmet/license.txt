@@ -1,0 +1,11 @@
+Model Information:
+* title:	Warhammer 40k - Kasrkin Helmet
+* source:	https://sketchfab.com/3d-models/warhammer-40k-kasrkin-helmet-9ae27ea1013e4ffc8b8b94974be082f6
+* author:	tnnv (https://sketchfab.com/tnnv)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Warhammer 40k - Kasrkin Helmet" (https://sketchfab.com/3d-models/warhammer-40k-kasrkin-helmet-9ae27ea1013e4ffc8b8b94974be082f6) by tnnv (https://sketchfab.com/tnnv) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
